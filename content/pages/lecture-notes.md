@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a list of lecture topics along with lecture notes
+  prepared by 6.089 students to fulfill their "scribe notes" requirement.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
